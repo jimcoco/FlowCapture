@@ -29,7 +29,9 @@ Hence, for this hackathon, I decided to build FlowCapture - the first decentrali
 ## Features Overview of FlowCapture
 
 <hr>
+
 ##### ⭐ Details of the features:
+
 <hr>
 
 #### ✔️ Build Your Own Community Space
